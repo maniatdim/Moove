@@ -12,7 +12,7 @@
     }
 
     .bg-2 {
-        background-color: #7460ee;
+        background-color: #ff0000;
     }
 
     .bg-3 {
@@ -31,7 +31,7 @@
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
 
-    .small-box > .inner {
+    .small-box>.inner {
         padding: 10px;
     }
 
@@ -78,7 +78,7 @@
             border: none;
             background-color: initial;
 
-            > .card-body {
+            >.card-body {
                 padding: 0;
             }
         }
